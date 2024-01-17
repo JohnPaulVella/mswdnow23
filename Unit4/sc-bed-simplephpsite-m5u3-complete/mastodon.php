@@ -88,7 +88,7 @@ function getMastodonPosts(string $tag)
                     }
                     ?>
                 </tbody>
-            </table>
+         </table>
 
     </div>
 
