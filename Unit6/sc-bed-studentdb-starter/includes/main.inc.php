@@ -25,7 +25,7 @@ function loadValue(string $key, bool $json = false) : mixed
  * @param mixed $value the value to save
  * @param bool $json whether to JSON-encode the value
  * @param int $exp the expiry time for the cookie
- * @param void
+ * @return void
  */
 function saveValue(string $key, mixed $value, bool $json = false, int $exp = 2628288) : void 
 {
@@ -94,7 +94,7 @@ function sortStudents()
     }
 
     if ($sortBy === 'id' || empty($sortBy)) {
-        ksort(studentList);
+        ksort($studentList);
     } else {
         uasort($studentList, fn($a, $b) => $a[$sortBy] <=> $b[$sortBy]);
     }
