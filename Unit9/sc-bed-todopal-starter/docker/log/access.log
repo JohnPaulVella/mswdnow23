@@ -72,3 +72,8 @@
 172.28.0.1 - - [12/Feb/2024:19:41:07 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 172.28.0.1 - - [12/Feb/2024:19:41:07 +0000] "GET /js/todopal.js HTTP/1.1" 200 7025 "http://localhost:8001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 172.28.0.1 - - [12/Feb/2024:19:41:09 +0000] "GET /js/todopal.js HTTP/1.1" 304 0 "http://localhost:8001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+172.28.0.1 - - [09/Jun/2024:09:26:33 +0000] "GET / HTTP/1.1" 200 3047 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+172.28.0.1 - - [09/Jun/2024:09:26:33 +0000] "GET /css/main.css HTTP/1.1" 200 206 "http://localhost:8001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+172.28.0.1 - - [09/Jun/2024:09:26:33 +0000] "GET /js/todopal.js HTTP/1.1" 200 7025 "http://localhost:8001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+172.28.0.1 - - [09/Jun/2024:09:26:33 +0000] "GET /favicon.ico HTTP/1.1" 200 3047 "http://localhost:8001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+172.28.0.1 - - [09/Jun/2024:09:26:33 +0000] "GET /includes/login.html HTTP/1.1" 200 764 "http://localhost:8001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"

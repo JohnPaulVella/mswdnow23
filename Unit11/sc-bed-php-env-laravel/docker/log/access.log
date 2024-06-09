@@ -20,3 +20,6 @@
 172.30.0.1 - - [19/Feb/2024:19:01:29 +0000] "GET /products/create HTTP/1.1" 200 3971 "http://localhost:8000/products" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 172.30.0.1 - - [19/Feb/2024:19:02:34 +0000] "POST /products HTTP/1.1" 302 378 "http://localhost:8000/products/create" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 172.30.0.1 - - [19/Feb/2024:19:02:35 +0000] "GET /products HTTP/1.1" 200 3416 "http://localhost:8000/products/create" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+172.30.0.1 - - [14/May/2024:20:48:50 +0000] "GET / HTTP/1.1" 200 26605 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+172.30.0.1 - - [14/May/2024:20:48:50 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+172.30.0.1 - - [14/May/2024:20:49:00 +0000] "GET / HTTP/1.1" 200 26605 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
